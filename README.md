@@ -10,7 +10,7 @@ Various snippets for the IT Department for managing windows workstations and ins
 
 
 # Windows software management:
-- [Remove Old java versions](./Remove-OldJava/README.md)
+- [Remove Old java versions](./Windows%20Software/Remove-OldJava/README.md)
 
 
 
